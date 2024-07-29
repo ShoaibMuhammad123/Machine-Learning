@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contain the ML models training codes and ML projects.
+This repository contain all the ML models projects and their codes 
